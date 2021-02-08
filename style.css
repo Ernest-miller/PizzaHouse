@@ -1,0 +1,48 @@
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-info {
+    width: 50%;
+}
+
+.contact-div {
+    display: flex;
+}
+
+.contact-div p{
+    margin-right: 50px;
+}
+
+.top-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.top-list li {
+    display: inline;
+    margin-right: 30px;
+}
+
+.section {
+    border-bottom: 2px solid black;
+}
+
+.banner-img {
+    max-width: 1200px;
+}
+
+.stuff {
+    display: flex;
+    margin: 30px auto;
+    width: 600px;
+    height: 600px;
+    border: 1px solid green;
+}
+
+.mini-stuff {
+    width: 200px;
+    height: 200px;
+    background: red;
+}
